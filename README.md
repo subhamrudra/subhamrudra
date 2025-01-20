@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, MySQL**
 
-- 📫 How to reach me **subhamrudra360@gmail.com**
+- 📫 How to reach me **subhamrudra.dev@gmail.com**
 
 - ⚡ Fun fact **🌟 I'm a passionate problem-solver who loves turning ideas into reality with code! When I'm not debugging, you'll find me exploring the latest trends in web development or diving into a good book on tech innovation. 🚀📚**
 
